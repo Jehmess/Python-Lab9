@@ -1,2 +1,2 @@
-# Python-Labs
-Compilation of all Python Labs
+# Python-Lab9
+Lab9 - Python
